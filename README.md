@@ -16,5 +16,15 @@ Objectives
 • Boost income generation
 
 Context
+
 The Growth team has opted to conduct an A/B test that features prominent products
 from the food and drink category as a banner positioned at the top of the website. 
+
+Summary
+
+By performing A/B testing, we aimed to identify the most effective version of our home
+page in terms of increasing revenue.
+
+The results showed the difference in the conversion rate .
+
+The test results did not show much difference in the average amount spent.
